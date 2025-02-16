@@ -1,0 +1,4 @@
+Calculate the result of the given expression modulo 5, perform the calculation step by step.
+Output the final result in a dictionary with the key 'Result'. For instance, if the input expression is "3+((0·(0·1))+1)", the output would be: {'Result': 4}.
+
+Expression: {{expr}}

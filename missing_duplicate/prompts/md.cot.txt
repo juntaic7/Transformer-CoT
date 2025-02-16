@@ -1,0 +1,7 @@
+One token in this binary list has been hidden with value '2', and you must find out which one it is, by looking at the value at the same position but on the other side of the list.
+Solve the missing duplicate problem in the given list following the steps below:
+    1. Split the list into two halves
+    2. Identify the mismatch (the '2') by looking at the value at the same position but on the other side of the list
+Output the final result in a dictionary with the key 'Result'. For instance, if the input list is "['0', '1', '1', '2', '1', '1']", the output would be: {'Result': '0'}.
+
+List: {{list}}

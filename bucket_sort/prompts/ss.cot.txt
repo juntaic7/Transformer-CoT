@@ -1,0 +1,6 @@
+Please sort the given list (only composed of numbers from 0 to 4) in ascending order following the steps below:
+    1. Count the occurrences of each digit, and list the counts
+    2. Place the digits from smallest to largest based on the counts
+Output the final result in a dictionary with the key 'Result'. For instance, if the input list is "['0', '2', '1', '4', '3', '1']", the output would be: {'Result': '011234'}.
+
+List: {{list}}
